@@ -16,6 +16,8 @@ Este projeto implementa um sistema simples de atendimento com duas abordagens de
 ## Menu de opções
 Sair
 
+Abrir gichê
+
 Gerar senha
 
 Realizar atendimento
